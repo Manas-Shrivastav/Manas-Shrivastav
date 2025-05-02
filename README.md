@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Manas-Shrivastav
 - 👀 I’m interested in the domain of sports
-- 🌱 I’m currently learning business analytics
-- 💞️ I’m looking to collaborate on predictive models
+- 🌱 I’m currently working as an  data analyst
+- 💞️ I’m looking to build expertise in NLP 
 - 📫 How to reach me ...
 
 <!---
