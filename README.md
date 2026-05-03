@@ -1,4 +1,4 @@
-# Hi, I'm Manas Shrivastav 👋
+# Hi, I'm Manas Shrivasttav 👋
 
 **Data Scientist in progress · Currently working as Senior Data Analyst**
 > Building at the intersection of Analytics, Machine Learning, and Generative AI.
@@ -64,5 +64,3 @@ I have also built end-to-end NLP and LLM pipelines — automating content workfl
 [![Email](https://img.shields.io/badge/Email-manas.961150%40gmail.com-D14836?style=flat&logo=gmail)](mailto:manas.961150@gmail.com)
 
 ---
-
-*Open to Data Scientist opportunities in AI, ML, and applied analytics. Let's build something impactful.*
