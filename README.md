@@ -2,7 +2,7 @@
 
 **Data Scientist in progress · Currently working as Senior Data Analyst**
 > Building at the intersection of Analytics, Machine Learning, and Generative AI.
-> Continuously Learning by pursuing **Applied Data Science & AI at IIT Delhi** — specialising in ML, Agentic AI, and model deployment.
+> Continuously learning by pursuing **Applied Data Science & AI at IIT Delhi** — specialising in ML, Agentic AI, and model deployment.
 
 ---
 
