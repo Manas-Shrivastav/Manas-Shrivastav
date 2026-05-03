@@ -1,18 +1,18 @@
 # Hi, I'm Manas Shrivastav 👋
 
-**Data Scientist in progress · Senior Data Analyst @ WNS Analytics (Capgemini)**
+**Data Scientist in progress · Currently working as Senior Data Analyst**
 > Building at the intersection of Analytics, Machine Learning, and Generative AI.
-> Currently pursuing **Applied Data Science & AI at IIT Delhi** — specialising in LLMs, Agentic AI, and model deployment.
+> Continuously Learning by pursuing **Applied Data Science & AI at IIT Delhi** — specialising in ML, Agentic AI, and model deployment.
 
 ---
 
 ## 🧠 What I Do
 
-I turn complex, messy data into decisions that matter — through ML pipelines, LLM-powered automation, and analytics systems built for scale.
+I turn complex, messy data into decisions that matter — through ML, LLM-powered automation, and analytics systems built for scale.
 
-At **WNS Analytics (Capgemini)**, I work as an embedded analytics partner for one of the UK's top-2 omnichannel grocery retailers (£32bn+ revenue), delivering executive dashboards, digital performance analytics, and data governance frameworks across web and app platforms.
+**Currently** working as a digital analyst for one of the UK's top-2 omnichannel grocery retailers, delivering executive dashboards, digital performance analytics, and data governance frameworks across web and app platforms.
 
-Previously at **Quality Council of India**, I built end-to-end NLP and LLM pipelines — automating content workflows, building Sentence-BERT screening systems, and delivering ML-driven intelligence tools that cut manual effort by 50–60%.
+I have also built end-to-end NLP and LLM pipelines — automating content workflows, building Sentence-BERT screening systems, and delivering ML-driven intelligence tools that cut manual effort.
 
 ---
 
@@ -55,13 +55,6 @@ Previously at **Quality Council of India**, I built end-to-end NLP and LLM pipel
 - 📜 **Microsoft Azure Database Administrator (DP-300)** — 2026
 - 📜 **LangChain for LLM Application Development** — DeepLearning.AI, 2024
 - 📄 **Published Research** — Cybercrime clustering of Indian states, WeSchool International Conference *(ISBN: 978-93-91355-77-7)*
-
----
-
-## 📊 GitHub Stats
-
-![Manas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manas-Shrivastav&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manas-Shrivastav&layout=compact&theme=default&hide_border=true)
 
 ---
 
