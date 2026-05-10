@@ -23,7 +23,7 @@ I have also built end-to-end NLP and LLM pipelines — automating content workfl
 | [🗳️ India Elections NewsBot](https://github.com/Manas-Shrivastav/IndiaElection-Twitter-NewsBot) | LLM-powered bot aggregating real-time election news and polls from Twitter | Python, NewsAPI, ChatGPT API |
 | [📰 Automated AI Newsletter](https://github.com/Manas-Shrivastav/Automated-AI-powered-Newsletter) | AI pipeline that auto-generates and distributes trend-based newsletters | Python, LLM, Automation |
 | 🦵 Sports Injury Prediction *(coming soon)* | ML model for early injury detection in professional footballers — AdaBoost best performer | Python, Scikit-learn, AdaBoost |
-| 🗺️ Cybercrime Clustering — *Published* *(coming soon)* | Clustering of Indian states by cybercrime profile using official ransomware/malware data | Python, K-Means, Published @ WeSchool Intl. Conf. |
+| [🗺️ Cybercrime Clustering - *Published Reaserch Paper*](https://github.com/Manas-Shrivasttav/Cybercrime-Clustering-India)) | Clustering of Indian states by cybercrime profile using official ransomware/malware data | Python, K-Means, Published @ WeSchool Intl. Conf. |
 | 🔍 Information Retrieval using ML *(coming soon)* | ML-based information retrieval system built during internship with Ministry of Commerce, India | Python, NLP, ML |
 
 ---
