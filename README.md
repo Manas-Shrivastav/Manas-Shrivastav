@@ -31,7 +31,7 @@ I have also built end-to-end NLP and LLM pipelines — automating content workfl
 ## 🛠️ Tech Stack
 
 **Languages & Core**
-`Python` `SQL`
+`Python` `SQL` `R`
 
 **Machine Learning & AI**
 `Scikit-learn` `XGBoost` `AdaBoost` `Sentence-BERT` `Few-shot Learning` `LLMs` `LangChain` `Generative AI` `Agentic AI`
